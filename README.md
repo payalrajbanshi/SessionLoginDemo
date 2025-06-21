@@ -16,7 +16,6 @@ A basic ASP.NET Core MVC application demonstrating user authentication using ses
 - Logout and session clearing
 - Clean MVC architecture
 
----
 
 ## Technologies Used
 
@@ -25,7 +24,6 @@ A basic ASP.NET Core MVC application demonstrating user authentication using ses
 - Razor Views
 - Session Management
 - Bootstrap 
----
 
 ## Getting Started
 
